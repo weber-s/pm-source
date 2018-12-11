@@ -1,0 +1,7 @@
+dash
+dash-auth
+dash-renderer
+dash-html-components
+dash-core-components==0.24.0rc4
+dash-table-experiments
+pandas
